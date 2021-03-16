@@ -1,15 +1,9 @@
 # nobitex_dollar_wp_plugin
-a plugin for nobitex
-
-Plugin Name: ارز های دیجیتال ساخته علی اسماعیلی
-
-Plugin URI: https://aliesm.com
-
-Description: این پلاگین برای دریافت قیمت لحظه‌ای دلار از نوبیتکس تهیه شده است.
+A plugin for nobitex
 
 Version: 1.0.0
 
-Author: علی اسماعیلی
+Author: Ali Esmaeili
 
 Author URI: https://aliesm.com
 
