@@ -1,4 +1,4 @@
-# nobitex_dollar_wp_plugin
+# Nobitex Dollar Wp Plugin
 A plugin for nobitex
 
 Version: 1.0.0
