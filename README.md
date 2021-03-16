@@ -14,7 +14,8 @@ Author: علی اسماعیلی
 Author URI: https://aliesm.com
 
 
-Install
+##Install
+
 
 1 - Go to WordPress admin area and visit Plugins » Add New page.
 
@@ -27,9 +28,9 @@ Install
 5 - Once installed, you need to click on the Activate Plugin link to start using the plugin.
 
 
-Usage 
+##Usage
 
-ShortCodes For Use in All Over the Template
+###ShortCodes For Use in All Over the Template
  
 USD : [androdollar]
 
