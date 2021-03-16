@@ -2,10 +2,15 @@
 a plugin for nobitex
 
 Plugin Name: ارز های دیجیتال ساخته علی اسماعیلی
+
 Plugin URI: https://aliesm.com
+
 Description: این پلاگین برای دریافت قیمت لحظه‌ای دلار از نوبیتکس تهیه شده است.
+
 Version: 1.0.0
+
 Author: علی اسماعیلی
+
 Author URI: https://aliesm.com
 
 
@@ -27,6 +32,8 @@ Usage
 ShortCodes For Use in All Over the Template
  
 USD : [androdollar]
+
 Pond : [andropond]
+
 Euro : [androeuro]
 
