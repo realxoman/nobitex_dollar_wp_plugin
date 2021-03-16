@@ -1,18 +1,16 @@
 # nobitex_dollar_wp_plugin
 a plugin for nobitex
 
-
-/*
 Plugin Name: ارز های دیجیتال ساخته علی اسماعیلی
 Plugin URI: https://aliesm.com
 Description: این پلاگین برای دریافت قیمت لحظه‌ای دلار از نوبیتکس تهیه شده است.
 Version: 1.0.0
 Author: علی اسماعیلی
 Author URI: https://aliesm.com
-*/
 
-**Install 
-**
+
+Install
+
 1 - Go to WordPress admin area and visit Plugins » Add New page.
 
 2 - After that, click on the ‘Upload Plugin’ button on top of the page.
@@ -23,10 +21,12 @@ Author URI: https://aliesm.com
 
 5 - Once installed, you need to click on the Activate Plugin link to start using the plugin.
 
-**Usage 
-** ShortCodes For Use in All Over the Template
- * 
- * USD : [androdollar]
- * Pond : [andropond]
- * Euro : [androeuro]
- * 
+
+Usage 
+
+ShortCodes For Use in All Over the Template
+ 
+USD : [androdollar]
+Pond : [andropond]
+Euro : [androeuro]
+
